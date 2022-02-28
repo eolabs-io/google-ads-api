@@ -4,6 +4,9 @@ namespace EolabsIo\GoogleAdsApi\Database\Factories;
 
 use Illuminate\Database\Eloquent\Factories\Factory;
 use EolabsIo\GoogleAdsApi\Domain\Reporting\Models\CostInsight;
+use EolabsIo\GoogleAdsApi\Domain\Shared\Models\AdGroup;
+use EolabsIo\GoogleAdsApi\Domain\Shared\Models\AdGroupCriterion;
+use EolabsIo\GoogleAdsApi\Domain\Shared\Models\Campaign;
 
 /**
  * @extends \Illuminate\Database\Eloquent\Factories\Factory<EolabsIo\GoogleAdsApi\Domain\Reporting\Models\CostInsight>
@@ -27,9 +30,9 @@ class CostInsightFactory extends Factory
     {
         return [
             'customer_id' => $this->faker->randomNumber(4),
-            'campaign_id' => $this->faker->randomNumber(4),
-            'ad_group_id' => $this->faker->randomNumber(4),
-            'ad_group_criterion_id' => $this->faker->randomNumber(4),
+            'campaign_id' => Campaign::factory(),
+            'ad_group_id' => AdGroup::factory(),
+            'ad_group_criterion_id' => AdGroupCriterion::factory(),
             'date' => $this->faker->date('Y-m-d'),
             'impressions' => $this->faker->randomNumber(),
             'clicks' => $this->faker->randomNumber(),

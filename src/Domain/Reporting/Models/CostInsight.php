@@ -3,6 +3,9 @@
 namespace EolabsIo\GoogleAdsApi\Domain\Reporting\Models;
 
 use EolabsIo\GoogleAdsApi\Database\Factories\CostInsightFactory;
+use EolabsIo\GoogleAdsApi\Domain\Shared\Models\AdGroup;
+use EolabsIo\GoogleAdsApi\Domain\Shared\Models\AdGroupCriterion;
+use EolabsIo\GoogleAdsApi\Domain\Shared\Models\Campaign;
 use EolabsIo\GoogleAdsApi\Domain\Shared\Models\GoogleAdsApiModel;
 
 class CostInsight extends GoogleAdsApiModel
@@ -39,6 +42,21 @@ class CostInsight extends GoogleAdsApiModel
                     'clicks',
                     'cost',
                 ];
+
+    public function campaign()
+    {
+        return $this->belongsTo(Campaign::class)->withDefault();
+    }
+
+    public function adGroup()
+    {
+        return $this->belongsTo(AdGroup::class)->withDefault();
+    }
+
+    public function adGroupCriterion()
+    {
+        return $this->belongsTo(AdGroupCriterion::class)->withDefault();
+    }
 
     /**
      * Create a new factory instance for the model.
