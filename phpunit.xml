@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phpunit xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:noNamespaceSchemaLocation="./vendor/phpunit/phpunit/phpunit.xsd"
+         bootstrap="vendor/autoload.php"
+         colors="true"
+>
+    <testsuites>
+        <testsuite name="Unit">
+            <directory suffix="Test.php">./tests/Unit</directory>
+        </testsuite>
+        <testsuite name="Feature">
+            <directory suffix="Test.php">./tests/Feature</directory>
+        </testsuite>
+    </testsuites>
+    <filter>
+        <whitelist>
+            <directory suffix=".php">src/</directory>
+        </whitelist>
+    </filter>
+    <coverage processUncoveredFiles="true">
+        <include>
+            <directory suffix=".php">./app</directory>
+            <directory suffix=".php">./src</directory>
+        </include>
+    </coverage>
+    <php>
+        <env name="DB_CONNECTION" value="sqlite"/>
+        <env name="DB_DATABASE" value=":memory:"/>
+        <env name="DB_FOREIGN_KEYS" value="true" />
+        <!-- <env name="DB_DATABASE" value="GoogleAdsApiTest"/> -->
+        <env name="DB_USERNAME" value="root"/>
+        <env name="DB_PASSWORD" value=""/>
+        <env name="GOOGLE_ADS_API_CLIENT_ID" value="123459541998-prerumfquEXAMPLEofjd7c.apps.googleusercontent.com"/>
+        <env name="GOOGLE_ADS_API_CLIENT_SECRET" value="EXAMPLE0b302baf3e644a2baf3e62baf3e"/>
+        <env name="GOOGLE_ADS_API_DEVELOPER_TOKEN" value="987654321"/>
+        <env name="GOOGLE_ADS_API_CUSTOMER_ID" value="9876543210"/>
+    </php>
+</phpunit>

@@ -1,0 +1,883 @@
+[
+    {
+        "results": [
+            {
+                "customer": {
+                    "resourceName": "customers/9718902249",
+                    "id": "9718902249"
+                },
+                "campaign": {
+                    "resourceName": "customers/9718902249/campaigns/16037445769",
+                    "status": "ENABLED",
+                    "name": "Amazon Attribution Website traffic | Probiotic",
+                    "id": "16037445769"
+                },
+                "adGroup": {
+                    "resourceName": "customers/9718902249/adGroups/131723824983",
+                    "id": "131723824983",
+                    "name": "probiotic"
+                },
+                "metrics": {
+                    "clicks": "40",
+                    "costMicros": "30490000",
+                    "impressions": "671"
+                },
+                "adGroupCriterion": {
+                    "resourceName": "customers/9718902249/adGroupCriteria/131723824983~10663057",
+                    "keyword": {
+                        "text": "probiotic"
+                    },
+                    "criterionId": "10663057"
+                },
+                "keywordView": {
+                    "resourceName": "customers/9718902249/keywordViews/131723824983~10663057"
+                },
+                "segments": {
+                    "date": "2022-02-27"
+                }
+            },
+            {
+                "customer": {
+                    "resourceName": "customers/9718902249",
+                    "id": "9718902249"
+                },
+                "campaign": {
+                    "resourceName": "customers/9718902249/campaigns/16037445769",
+                    "status": "ENABLED",
+                    "name": "Amazon Attribution Website traffic | Probiotic",
+                    "id": "16037445769"
+                },
+                "adGroup": {
+                    "resourceName": "customers/9718902249/adGroups/130369825582",
+                    "id": "130369825582",
+                    "name": "probiotics"
+                },
+                "metrics": {
+                    "clicks": "36",
+                    "costMicros": "25820000",
+                    "impressions": "511"
+                },
+                "adGroupCriterion": {
+                    "resourceName": "customers/9718902249/adGroupCriteria/130369825582~12288901",
+                    "keyword": {
+                        "text": "probiotics"
+                    },
+                    "criterionId": "12288901"
+                },
+                "keywordView": {
+                    "resourceName": "customers/9718902249/keywordViews/130369825582~12288901"
+                },
+                "segments": {
+                    "date": "2022-02-27"
+                }
+            },
+            {
+                "customer": {
+                    "resourceName": "customers/9718902249",
+                    "id": "9718902249"
+                },
+                "campaign": {
+                    "resourceName": "customers/9718902249/campaigns/15919163253",
+                    "status": "ENABLED",
+                    "name": "Amazon Attribution Website traffic for SBO",
+                    "id": "15919163253"
+                },
+                "adGroup": {
+                    "resourceName": "customers/9718902249/adGroups/136019768127",
+                    "id": "136019768127",
+                    "name": "Ad group 1"
+                },
+                "metrics": {
+                    "clicks": "3",
+                    "costMicros": "2080000",
+                    "impressions": "89"
+                },
+                "adGroupCriterion": {
+                    "resourceName": "customers/9718902249/adGroupCriteria/136019768127~283880227",
+                    "keyword": {
+                        "text": "best probiotic"
+                    },
+                    "criterionId": "283880227"
+                },
+                "keywordView": {
+                    "resourceName": "customers/9718902249/keywordViews/136019768127~283880227"
+                },
+                "segments": {
+                    "date": "2022-02-27"
+                }
+            },
+            {
+                "customer": {
+                    "resourceName": "customers/9718902249",
+                    "id": "9718902249"
+                },
+                "campaign": {
+                    "resourceName": "customers/9718902249/campaigns/15919163253",
+                    "status": "ENABLED",
+                    "name": "Amazon Attribution Website traffic for SBO",
+                    "id": "15919163253"
+                },
+                "adGroup": {
+                    "resourceName": "customers/9718902249/adGroups/136019768127",
+                    "id": "136019768127",
+                    "name": "Ad group 1"
+                },
+                "metrics": {
+                    "clicks": "1",
+                    "costMicros": "360000",
+                    "impressions": "12"
+                },
+                "adGroupCriterion": {
+                    "resourceName": "customers/9718902249/adGroupCriteria/136019768127~4248866236",
+                    "keyword": {
+                        "text": "probiotics for women"
+                    },
+                    "criterionId": "4248866236"
+                },
+                "keywordView": {
+                    "resourceName": "customers/9718902249/keywordViews/136019768127~4248866236"
+                },
+                "segments": {
+                    "date": "2022-02-27"
+                }
+            },
+            {
+                "customer": {
+                    "resourceName": "customers/9718902249",
+                    "id": "9718902249"
+                },
+                "campaign": {
+                    "resourceName": "customers/9718902249/campaigns/16037445769",
+                    "status": "ENABLED",
+                    "name": "Amazon Attribution Website traffic | Probiotic",
+                    "id": "16037445769"
+                },
+                "adGroup": {
+                    "resourceName": "customers/9718902249/adGroups/131439200045",
+                    "id": "131439200045",
+                    "name": "probiotics for men"
+                },
+                "metrics": {
+                    "clicks": "0",
+                    "costMicros": "0",
+                    "impressions": "8"
+                },
+                "adGroupCriterion": {
+                    "resourceName": "customers/9718902249/adGroupCriteria/131439200045~11496142417",
+                    "keyword": {
+                        "text": "probiotics for men"
+                    },
+                    "criterionId": "11496142417"
+                },
+                "keywordView": {
+                    "resourceName": "customers/9718902249/keywordViews/131439200045~11496142417"
+                },
+                "segments": {
+                    "date": "2022-02-27"
+                }
+            },
+            {
+                "customer": {
+                    "resourceName": "customers/9718902249",
+                    "id": "9718902249"
+                },
+                "campaign": {
+                    "resourceName": "customers/9718902249/campaigns/15919163253",
+                    "status": "ENABLED",
+                    "name": "Amazon Attribution Website traffic for SBO",
+                    "id": "15919163253"
+                },
+                "adGroup": {
+                    "resourceName": "customers/9718902249/adGroups/136019768127",
+                    "id": "136019768127",
+                    "name": "Ad group 1"
+                },
+                "metrics": {
+                    "clicks": "1",
+                    "costMicros": "620000",
+                    "impressions": "33"
+                },
+                "adGroupCriterion": {
+                    "resourceName": "customers/9718902249/adGroupCriteria/136019768127~11496142417",
+                    "keyword": {
+                        "text": "probiotics for men"
+                    },
+                    "criterionId": "11496142417"
+                },
+                "keywordView": {
+                    "resourceName": "customers/9718902249/keywordViews/136019768127~11496142417"
+                },
+                "segments": {
+                    "date": "2022-02-27"
+                }
+            },
+            {
+                "customer": {
+                    "resourceName": "customers/9718902249",
+                    "id": "9718902249"
+                },
+                "campaign": {
+                    "resourceName": "customers/9718902249/campaigns/15919163253",
+                    "status": "ENABLED",
+                    "name": "Amazon Attribution Website traffic for SBO",
+                    "id": "15919163253"
+                },
+                "adGroup": {
+                    "resourceName": "customers/9718902249/adGroups/136019768127",
+                    "id": "136019768127",
+                    "name": "Ad group 1"
+                },
+                "metrics": {
+                    "clicks": "0",
+                    "costMicros": "0",
+                    "impressions": "7"
+                },
+                "adGroupCriterion": {
+                    "resourceName": "customers/9718902249/adGroupCriteria/136019768127~296955105739",
+                    "keyword": {
+                        "text": "probiotics that work"
+                    },
+                    "criterionId": "296955105739"
+                },
+                "keywordView": {
+                    "resourceName": "customers/9718902249/keywordViews/136019768127~296955105739"
+                },
+                "segments": {
+                    "date": "2022-02-27"
+                }
+            },
+            {
+                "customer": {
+                    "resourceName": "customers/9718902249",
+                    "id": "9718902249"
+                },
+                "campaign": {
+                    "resourceName": "customers/9718902249/campaigns/16037445769",
+                    "status": "ENABLED",
+                    "name": "Amazon Attribution Website traffic | Probiotic",
+                    "id": "16037445769"
+                },
+                "adGroup": {
+                    "resourceName": "customers/9718902249/adGroups/130369941062",
+                    "id": "130369941062",
+                    "name": "probiotics for woman"
+                },
+                "metrics": {
+                    "clicks": "3",
+                    "costMicros": "2760000",
+                    "impressions": "17"
+                },
+                "adGroupCriterion": {
+                    "resourceName": "customers/9718902249/adGroupCriteria/130369941062~300826541205",
+                    "keyword": {
+                        "text": "probiotics for woman"
+                    },
+                    "criterionId": "300826541205"
+                },
+                "keywordView": {
+                    "resourceName": "customers/9718902249/keywordViews/130369941062~300826541205"
+                },
+                "segments": {
+                    "date": "2022-02-27"
+                }
+            },
+            {
+                "customer": {
+                    "resourceName": "customers/9718902249",
+                    "id": "9718902249"
+                },
+                "campaign": {
+                    "resourceName": "customers/9718902249/campaigns/15919163253",
+                    "status": "ENABLED",
+                    "name": "Amazon Attribution Website traffic for SBO",
+                    "id": "15919163253"
+                },
+                "adGroup": {
+                    "resourceName": "customers/9718902249/adGroups/136019768127",
+                    "id": "136019768127",
+                    "name": "Ad group 1"
+                },
+                "metrics": {
+                    "clicks": "0",
+                    "costMicros": "0",
+                    "impressions": "2"
+                },
+                "adGroupCriterion": {
+                    "resourceName": "customers/9718902249/adGroupCriteria/136019768127~306621490240",
+                    "keyword": {
+                        "text": "probiotic for mood"
+                    },
+                    "criterionId": "306621490240"
+                },
+                "keywordView": {
+                    "resourceName": "customers/9718902249/keywordViews/136019768127~306621490240"
+                },
+                "segments": {
+                    "date": "2022-02-27"
+                }
+            },
+            {
+                "customer": {
+                    "resourceName": "customers/9718902249",
+                    "id": "9718902249"
+                },
+                "campaign": {
+                    "resourceName": "customers/9718902249/campaigns/12479526873",
+                    "status": "ENABLED",
+                    "name": "Amazon Attribution Website traffic Search",
+                    "id": "12479526873"
+                },
+                "adGroup": {
+                    "resourceName": "customers/9718902249/adGroups/121220209320",
+                    "id": "121220209320",
+                    "name": "Ad group - Mood Boost"
+                },
+                "metrics": {
+                    "clicks": "34",
+                    "costMicros": "24720000",
+                    "impressions": "828"
+                },
+                "adGroupCriterion": {
+                    "resourceName": "customers/9718902249/adGroupCriteria/121220209320~321009920587",
+                    "keyword": {
+                        "text": "Mood Boost"
+                    },
+                    "criterionId": "321009920587"
+                },
+                "keywordView": {
+                    "resourceName": "customers/9718902249/keywordViews/121220209320~321009920587"
+                },
+                "segments": {
+                    "date": "2022-02-27"
+                }
+            },
+            {
+                "customer": {
+                    "resourceName": "customers/9718902249",
+                    "id": "9718902249"
+                },
+                "campaign": {
+                    "resourceName": "customers/9718902249/campaigns/12479526873",
+                    "status": "ENABLED",
+                    "name": "Amazon Attribution Website traffic Search",
+                    "id": "12479526873"
+                },
+                "adGroup": {
+                    "resourceName": "customers/9718902249/adGroups/121220209120",
+                    "id": "121220209120",
+                    "name": "Ad group - Mood Support"
+                },
+                "metrics": {
+                    "clicks": "7",
+                    "costMicros": "3370000",
+                    "impressions": "70"
+                },
+                "adGroupCriterion": {
+                    "resourceName": "customers/9718902249/adGroupCriteria/121220209120~396057852937",
+                    "keyword": {
+                        "text": "Mood Support"
+                    },
+                    "criterionId": "396057852937"
+                },
+                "keywordView": {
+                    "resourceName": "customers/9718902249/keywordViews/121220209120~396057852937"
+                },
+                "segments": {
+                    "date": "2022-02-27"
+                }
+            },
+            {
+                "customer": {
+                    "resourceName": "customers/9718902249",
+                    "id": "9718902249"
+                },
+                "campaign": {
+                    "resourceName": "customers/9718902249/campaigns/16276998628",
+                    "status": "ENABLED",
+                    "name": "Amazon Attribution | Search | MBP #2",
+                    "id": "16276998628"
+                },
+                "adGroup": {
+                    "resourceName": "customers/9718902249/adGroups/136559010627",
+                    "id": "136559010627",
+                    "name": "Mood Support | Broad"
+                },
+                "metrics": {
+                    "clicks": "8",
+                    "costMicros": "6930000",
+                    "impressions": "133"
+                },
+                "adGroupCriterion": {
+                    "resourceName": "customers/9718902249/adGroupCriteria/136559010627~396057852937",
+                    "keyword": {
+                        "text": "Mood Support"
+                    },
+                    "criterionId": "396057852937"
+                },
+                "keywordView": {
+                    "resourceName": "customers/9718902249/keywordViews/136559010627~396057852937"
+                },
+                "segments": {
+                    "date": "2022-02-27"
+                }
+            },
+            {
+                "customer": {
+                    "resourceName": "customers/9718902249",
+                    "id": "9718902249"
+                },
+                "campaign": {
+                    "resourceName": "customers/9718902249/campaigns/15928418284",
+                    "status": "ENABLED",
+                    "name": "Amazon Attribution | Search | MBP",
+                    "id": "15928418284"
+                },
+                "adGroup": {
+                    "resourceName": "customers/9718902249/adGroups/138004258248",
+                    "id": "138004258248",
+                    "name": "Mood Support | Broad"
+                },
+                "metrics": {
+                    "clicks": "52",
+                    "costMicros": "45290000",
+                    "impressions": "507"
+                },
+                "adGroupCriterion": {
+                    "resourceName": "customers/9718902249/adGroupCriteria/138004258248~396057852937",
+                    "keyword": {
+                        "text": "Mood Support"
+                    },
+                    "criterionId": "396057852937"
+                },
+                "keywordView": {
+                    "resourceName": "customers/9718902249/keywordViews/138004258248~396057852937"
+                },
+                "segments": {
+                    "date": "2022-02-27"
+                }
+            },
+            {
+                "customer": {
+                    "resourceName": "customers/9718902249",
+                    "id": "9718902249"
+                },
+                "campaign": {
+                    "resourceName": "customers/9718902249/campaigns/12479526873",
+                    "status": "ENABLED",
+                    "name": "Amazon Attribution Website traffic Search",
+                    "id": "12479526873"
+                },
+                "adGroup": {
+                    "resourceName": "customers/9718902249/adGroups/121220209160",
+                    "id": "121220209160",
+                    "name": "Ad group - Mood Support Supplement"
+                },
+                "metrics": {
+                    "clicks": "6",
+                    "costMicros": "4640000",
+                    "impressions": "138"
+                },
+                "adGroupCriterion": {
+                    "resourceName": "customers/9718902249/adGroupCriteria/121220209160~396057853097",
+                    "keyword": {
+                        "text": "Mood Support Supplement"
+                    },
+                    "criterionId": "396057853097"
+                },
+                "keywordView": {
+                    "resourceName": "customers/9718902249/keywordViews/121220209160~396057853097"
+                },
+                "segments": {
+                    "date": "2022-02-27"
+                }
+            },
+            {
+                "customer": {
+                    "resourceName": "customers/9718902249",
+                    "id": "9718902249"
+                },
+                "campaign": {
+                    "resourceName": "customers/9718902249/campaigns/15928418284",
+                    "status": "ENABLED",
+                    "name": "Amazon Attribution | Search | MBP",
+                    "id": "15928418284"
+                },
+                "adGroup": {
+                    "resourceName": "customers/9718902249/adGroups/133295930078",
+                    "id": "133295930078",
+                    "name": "Mood Support Supplement | Broad"
+                },
+                "metrics": {
+                    "clicks": "89",
+                    "costMicros": "84660000",
+                    "impressions": "765"
+                },
+                "adGroupCriterion": {
+                    "resourceName": "customers/9718902249/adGroupCriteria/133295930078~396057853097",
+                    "keyword": {
+                        "text": "Mood Support Supplement"
+                    },
+                    "criterionId": "396057853097"
+                },
+                "keywordView": {
+                    "resourceName": "customers/9718902249/keywordViews/133295930078~396057853097"
+                },
+                "segments": {
+                    "date": "2022-02-27"
+                }
+            },
+            {
+                "customer": {
+                    "resourceName": "customers/9718902249",
+                    "id": "9718902249"
+                },
+                "campaign": {
+                    "resourceName": "customers/9718902249/campaigns/16276998628",
+                    "status": "ENABLED",
+                    "name": "Amazon Attribution | Search | MBP #2",
+                    "id": "16276998628"
+                },
+                "adGroup": {
+                    "resourceName": "customers/9718902249/adGroups/136559010467",
+                    "id": "136559010467",
+                    "name": "Mood Support Supplement | Broad"
+                },
+                "metrics": {
+                    "clicks": "26",
+                    "costMicros": "23750000",
+                    "impressions": "292"
+                },
+                "adGroupCriterion": {
+                    "resourceName": "customers/9718902249/adGroupCriteria/136559010467~396057853097",
+                    "keyword": {
+                        "text": "Mood Support Supplement"
+                    },
+                    "criterionId": "396057853097"
+                },
+                "keywordView": {
+                    "resourceName": "customers/9718902249/keywordViews/136559010467~396057853097"
+                },
+                "segments": {
+                    "date": "2022-02-27"
+                }
+            },
+            {
+                "customer": {
+                    "resourceName": "customers/9718902249",
+                    "id": "9718902249"
+                },
+                "campaign": {
+                    "resourceName": "customers/9718902249/campaigns/15919163253",
+                    "status": "ENABLED",
+                    "name": "Amazon Attribution Website traffic for SBO",
+                    "id": "15919163253"
+                },
+                "adGroup": {
+                    "resourceName": "customers/9718902249/adGroups/136019768127",
+                    "id": "136019768127",
+                    "name": "Ad group 1"
+                },
+                "metrics": {
+                    "clicks": "1",
+                    "costMicros": "530000",
+                    "impressions": "1"
+                },
+                "adGroupCriterion": {
+                    "resourceName": "customers/9718902249/adGroupCriteria/136019768127~417658542424",
+                    "keyword": {
+                        "text": "Spore Based Probiotic"
+                    },
+                    "criterionId": "417658542424"
+                },
+                "keywordView": {
+                    "resourceName": "customers/9718902249/keywordViews/136019768127~417658542424"
+                },
+                "segments": {
+                    "date": "2022-02-27"
+                }
+            },
+            {
+                "customer": {
+                    "resourceName": "customers/9718902249",
+                    "id": "9718902249"
+                },
+                "campaign": {
+                    "resourceName": "customers/9718902249/campaigns/15919163253",
+                    "status": "ENABLED",
+                    "name": "Amazon Attribution Website traffic for SBO",
+                    "id": "15919163253"
+                },
+                "adGroup": {
+                    "resourceName": "customers/9718902249/adGroups/136019768127",
+                    "id": "136019768127",
+                    "name": "Ad group 1"
+                },
+                "metrics": {
+                    "clicks": "0",
+                    "costMicros": "0",
+                    "impressions": "2"
+                },
+                "adGroupCriterion": {
+                    "resourceName": "customers/9718902249/adGroupCriteria/136019768127~554235803462",
+                    "keyword": {
+                        "text": "SBO Probiotics"
+                    },
+                    "criterionId": "554235803462"
+                },
+                "keywordView": {
+                    "resourceName": "customers/9718902249/keywordViews/136019768127~554235803462"
+                },
+                "segments": {
+                    "date": "2022-02-27"
+                }
+            },
+            {
+                "customer": {
+                    "resourceName": "customers/9718902249",
+                    "id": "9718902249"
+                },
+                "campaign": {
+                    "resourceName": "customers/9718902249/campaigns/15919163253",
+                    "status": "ENABLED",
+                    "name": "Amazon Attribution Website traffic for SBO",
+                    "id": "15919163253"
+                },
+                "adGroup": {
+                    "resourceName": "customers/9718902249/adGroups/136019768127",
+                    "id": "136019768127",
+                    "name": "Ad group 1"
+                },
+                "metrics": {
+                    "clicks": "1",
+                    "costMicros": "780000",
+                    "impressions": "11"
+                },
+                "adGroupCriterion": {
+                    "resourceName": "customers/9718902249/adGroupCriteria/136019768127~564620292139",
+                    "keyword": {
+                        "text": "SBO Probiotic"
+                    },
+                    "criterionId": "564620292139"
+                },
+                "keywordView": {
+                    "resourceName": "customers/9718902249/keywordViews/136019768127~564620292139"
+                },
+                "segments": {
+                    "date": "2022-02-27"
+                }
+            },
+            {
+                "customer": {
+                    "resourceName": "customers/9718902249",
+                    "id": "9718902249"
+                },
+                "campaign": {
+                    "resourceName": "customers/9718902249/campaigns/12479526873",
+                    "status": "ENABLED",
+                    "name": "Amazon Attribution Website traffic Search",
+                    "id": "12479526873"
+                },
+                "adGroup": {
+                    "resourceName": "customers/9718902249/adGroups/118467216869",
+                    "id": "118467216869",
+                    "name": "Ad group - Mood Support Supplement - Phrase"
+                },
+                "metrics": {
+                    "clicks": "0",
+                    "costMicros": "0",
+                    "impressions": "3"
+                },
+                "adGroupCriterion": {
+                    "resourceName": "customers/9718902249/adGroupCriteria/118467216869~572471368204",
+                    "keyword": {
+                        "text": "Mood Support Supplement"
+                    },
+                    "criterionId": "572471368204"
+                },
+                "keywordView": {
+                    "resourceName": "customers/9718902249/keywordViews/118467216869~572471368204"
+                },
+                "segments": {
+                    "date": "2022-02-27"
+                }
+            },
+            {
+                "customer": {
+                    "resourceName": "customers/9718902249",
+                    "id": "9718902249"
+                },
+                "campaign": {
+                    "resourceName": "customers/9718902249/campaigns/12479526873",
+                    "status": "ENABLED",
+                    "name": "Amazon Attribution Website traffic Search",
+                    "id": "12479526873"
+                },
+                "adGroup": {
+                    "resourceName": "customers/9718902249/adGroups/117821645446",
+                    "id": "117821645446",
+                    "name": "Ad group - Mood Support Supplement - Exact"
+                },
+                "metrics": {
+                    "clicks": "1",
+                    "costMicros": "850000",
+                    "impressions": "1"
+                },
+                "adGroupCriterion": {
+                    "resourceName": "customers/9718902249/adGroupCriteria/117821645446~572471390284",
+                    "keyword": {
+                        "text": "Mood Support Supplement"
+                    },
+                    "criterionId": "572471390284"
+                },
+                "keywordView": {
+                    "resourceName": "customers/9718902249/keywordViews/117821645446~572471390284"
+                },
+                "segments": {
+                    "date": "2022-02-27"
+                }
+            },
+            {
+                "customer": {
+                    "resourceName": "customers/9718902249",
+                    "id": "9718902249"
+                },
+                "campaign": {
+                    "resourceName": "customers/9718902249/campaigns/16276998628",
+                    "status": "ENABLED",
+                    "name": "Amazon Attribution | Search | MBP #2",
+                    "id": "16276998628"
+                },
+                "adGroup": {
+                    "resourceName": "customers/9718902249/adGroups/136559010667",
+                    "id": "136559010667",
+                    "name": "Mood Support Supplement | Exact"
+                },
+                "metrics": {
+                    "clicks": "1",
+                    "costMicros": "810000",
+                    "impressions": "1"
+                },
+                "adGroupCriterion": {
+                    "resourceName": "customers/9718902249/adGroupCriteria/136559010667~572471390284",
+                    "keyword": {
+                        "text": "Mood Support Supplement"
+                    },
+                    "criterionId": "572471390284"
+                },
+                "keywordView": {
+                    "resourceName": "customers/9718902249/keywordViews/136559010667~572471390284"
+                },
+                "segments": {
+                    "date": "2022-02-27"
+                }
+            },
+            {
+                "customer": {
+                    "resourceName": "customers/9718902249",
+                    "id": "9718902249"
+                },
+                "campaign": {
+                    "resourceName": "customers/9718902249/campaigns/15928418284",
+                    "status": "ENABLED",
+                    "name": "Amazon Attribution | Search | MBP",
+                    "id": "15928418284"
+                },
+                "adGroup": {
+                    "resourceName": "customers/9718902249/adGroups/138004533728",
+                    "id": "138004533728",
+                    "name": "Mood Support Supplement | Exact"
+                },
+                "metrics": {
+                    "clicks": "2",
+                    "costMicros": "1930000",
+                    "impressions": "35"
+                },
+                "adGroupCriterion": {
+                    "resourceName": "customers/9718902249/adGroupCriteria/138004533728~572471390284",
+                    "keyword": {
+                        "text": "Mood Support Supplement"
+                    },
+                    "criterionId": "572471390284"
+                },
+                "keywordView": {
+                    "resourceName": "customers/9718902249/keywordViews/138004533728~572471390284"
+                },
+                "segments": {
+                    "date": "2022-02-27"
+                }
+            },
+            {
+                "customer": {
+                    "resourceName": "customers/9718902249",
+                    "id": "9718902249"
+                },
+                "campaign": {
+                    "resourceName": "customers/9718902249/campaigns/15919163253",
+                    "status": "ENABLED",
+                    "name": "Amazon Attribution Website traffic for SBO",
+                    "id": "15919163253"
+                },
+                "adGroup": {
+                    "resourceName": "customers/9718902249/adGroups/136019768127",
+                    "id": "136019768127",
+                    "name": "Ad group 1"
+                },
+                "metrics": {
+                    "clicks": "0",
+                    "costMicros": "0",
+                    "impressions": "1"
+                },
+                "adGroupCriterion": {
+                    "resourceName": "customers/9718902249/adGroupCriteria/136019768127~644896230367",
+                    "keyword": {
+                        "text": "Lifted Probiotics"
+                    },
+                    "criterionId": "644896230367"
+                },
+                "keywordView": {
+                    "resourceName": "customers/9718902249/keywordViews/136019768127~644896230367"
+                },
+                "segments": {
+                    "date": "2022-02-27"
+                }
+            },
+            {
+                "customer": {
+                    "resourceName": "customers/9718902249",
+                    "id": "9718902249"
+                },
+                "campaign": {
+                    "resourceName": "customers/9718902249/campaigns/15919163253",
+                    "status": "ENABLED",
+                    "name": "Amazon Attribution Website traffic for SBO",
+                    "id": "15919163253"
+                },
+                "adGroup": {
+                    "resourceName": "customers/9718902249/adGroups/136019768127",
+                    "id": "136019768127",
+                    "name": "Ad group 1"
+                },
+                "metrics": {
+                    "clicks": "0",
+                    "costMicros": "0",
+                    "impressions": "2"
+                },
+                "adGroupCriterion": {
+                    "resourceName": "customers/9718902249/adGroupCriteria/136019768127~1595679386809",
+                    "keyword": {
+                        "text": "Soil Based Organism"
+                    },
+                    "criterionId": "1595679386809"
+                },
+                "keywordView": {
+                    "resourceName": "customers/9718902249/keywordViews/136019768127~1595679386809"
+                },
+                "segments": {
+                    "date": "2022-02-27"
+                }
+            }
+        ],
+        "fieldMask": "campaign.id,campaign.name,campaign.status,adGroup.id,adGroup.name,adGroupCriterion.criterionId,adGroupCriterion.keyword.text,metrics.impressions,metrics.clicks,metrics.costMicros,customer.id,segments.date",
+        "requestId": "h40428ycihg_yunXMbxfew"
+    }
+]
